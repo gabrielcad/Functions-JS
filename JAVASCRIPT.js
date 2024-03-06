@@ -7,3 +7,5 @@ const segundoNumero = 50;
 const operacaoMatematica = primeiroNumero + segundoNumero;
 
 console.log(operacaoMatematica)
+
+teste 
