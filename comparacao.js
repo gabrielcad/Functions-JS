@@ -15,4 +15,4 @@ console.log(typeof texto)
 // conversão explícita
 
 Number()
-String()
+String() 
